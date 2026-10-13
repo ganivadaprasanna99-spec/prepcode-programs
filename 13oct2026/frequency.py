@@ -1,5 +1,3 @@
-d={}
-n=int(input())
-for i in range (n):
-    name=input("enter your name")
-    age=int(input("enter))
+def janu(a,b):
+     print(a+b)
+janu(96,88)
